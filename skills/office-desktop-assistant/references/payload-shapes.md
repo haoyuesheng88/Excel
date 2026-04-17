@@ -28,8 +28,8 @@ Use these JSON shapes before UTF-8 + base64 encoding.
   "title": "Permission Matrix",
   "headers": ["No.", "Permission", "Admin", "Engineer"],
   "rows": [
-    ["1.", "User Management", "鈭?, "-"],
-    ["2.", "System Exit", "鈭?, "鈭?]
+    ["1.", "User Management", "Yes", "-"],
+    ["2.", "System Exit", "Yes", "Yes"]
   ],
   "fontName": "Microsoft YaHei",
   "freezeHeader": true,
