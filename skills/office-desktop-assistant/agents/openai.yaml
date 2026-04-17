@@ -1,0 +1,7 @@
+interface:
+  display_name: "Office Desktop Assistant"
+  short_description: "Automate Word and Excel desktop tasks."
+  default_prompt: "Use $office-desktop-assistant to handle a Word or Excel desktop task on Windows."
+
+policy:
+  allow_implicit_invocation: true
